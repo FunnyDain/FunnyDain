@@ -21,39 +21,29 @@ I’ll show you my worth and potential through the progress I will make.
 <br>
 
 
-
-
 ## 🌈 A little more about me…
 
-    ```java
+```java
+public class Dain{
+	private String mbti = "ISFJ";
+    private String strength = "Communication";
+	private String dream = "Full-Stack developer";
 
-        public class Dain{
-            private String mbti = "ISFJ";
-            private String strength = "Communication";
-            private String dream = "Full-Stack developer";
-
-            public void education(){
-                Map<T t> studying = new Map<T t>();
-                studying.put("language","java");
-                studying.put("db","mysql");
-                studying.put("dbConnect","jdbc");
-            }
-
-            public <T> String wantToGo(T t){
-                for(;;){
-                    ++growthPotential;
-                    ++expert;
-                    ++durability;
-                }
-                return "dk-techin";
-            }
-
+	public void Studying(){
+        while(true){
+            
         }
+	}
 
-    ```
-
-
-
+    public <T> String wantToGo(T t){
+        for( : ){
+            growth potential
+        }
+        return "dk-techin";
+    }
+	
+}
+```
 <br>
 <br>
 <br>
