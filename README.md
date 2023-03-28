@@ -25,18 +25,18 @@ I’ll show you my worth and potential through the progress I will make.
 
 ```java
 public class Dain{
-	private String mbti = "ISFJ";
+    private String mbti = "ISFJ";
     private String strength = "Communication";
-	private String dream = "Full-Stack developer";
+    private String dream = "Full-Stack developer";
 
-	public void education(){
+    public void education(){
         while(true){
             Map<String,String> studying = new HashMap<>();
             studying.put("language","java");
             studying.put("DBConnection","jdbc");
             studying.put("SQL","mysql");
-           }
-	}
+         }
+    }
 
     public <T> String wantToGo(T t){
         for(;;){
