@@ -21,7 +21,7 @@ I’ll show you my worth and potential through the progress I will make.
 <br>
 
 
-
+<p width="100%"> 
 
 ## 🌈 A little more about me…
 
@@ -52,7 +52,7 @@ I’ll show you my worth and potential through the progress I will make.
 
     ```
 
-
+</p>
 
 <br>
 <br>
