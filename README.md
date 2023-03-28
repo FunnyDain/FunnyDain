@@ -6,6 +6,7 @@
 <br>
 
 <p align = "left">
+    
 ## Hi✋🏻
 
 My name is Dain. 
@@ -16,7 +17,8 @@ I’ll show you my worth and potential through the progress I will make.
 <br>
 </p>
 
-<img src="file:///C:/Users/USER/AppData/Local/Temp/BNZ.6422fa00ad936c/Female%20Developer%202.svg" align="right">
+![Female Developer 2-01](https://user-images.githubusercontent.com/116984988/228272094-963de450-69f4-4ec3-8a75-93a36a3d34d2.jpg)
+
 
 ## 🌈 A little more about me…
 
