@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<p width="70%" align = "left" >
+
     
 ## Hi✋🏻
 
@@ -16,7 +16,7 @@ I’ll show you my worth and potential through the progress I will make.
 <br>
 <br>
 
-
+<p width="70%" align = "left" >
 
 ## 🌈 A little more about me…
 
