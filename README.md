@@ -17,7 +17,7 @@ I’ll show you my worth and potential through the progress I will make.
 <br>
 </p>
 
-![Female Developer 2-01](https://user-images.githubusercontent.com/116984988/228272094-963de450-69f4-4ec3-8a75-93a36a3d34d2.jpg)
+<img src="https://static.vecteezy.com/system/resources/previews/000/227/853/large_2x/female-developer-vector.jpg" align = "right" />
 
 
 ## 🌈 A little more about me…
