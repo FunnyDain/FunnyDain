@@ -29,15 +29,20 @@ public class Dain{
     private String strength = "Communication";
 	private String dream = "Full-Stack developer";
 
-	public void Studying(){
+	public void education(){
         while(true){
-            
+            Map<String,String> studying = new HashMap<>();
+            studying.put("language","java");
+            studying.put("DBConnection","jdbc");
+            studying.put("SQL","mysql");
         }
 	}
 
     public <T> String wantToGo(T t){
-        for( : ){
-            growth potential
+        for(;;){
+            ++growthPotential;
+            ++passion;
+            ++collaboration;
         }
         return "dk-techin";
     }
