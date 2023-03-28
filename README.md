@@ -68,7 +68,7 @@ take a look at this [KOSA_dk techin_MSA기반 Full-Stack 개발자 양성 과정
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
-## 🍀 Github
+<!-- ## 🍀 Connection -->
 
 <p align="right">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FunnyDain&show_icons=true&theme=radical)
