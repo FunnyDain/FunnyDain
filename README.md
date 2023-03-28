@@ -53,7 +53,7 @@ I’ll show you my worth and potential through the progress I will make.
 Currently improving my Full-Stack Developer skills I’m studying with dk techin & kosa
 
 if you’re looking for our curriculum,   
-take a look at this [KOSA_dk techin_MSA기반 Full-Stack 개발자 양성 과정]([https://github.com/FunnyDain/kosa-education-summary](https://github.com/FunnyDain/kosa-education-summary))
+take a look at this [KOSA_dk techin_MSA기반 Full-Stack 개발자 양성 과정](https://github.com/FunnyDain/kosa-education-summary)
 
 <br>
 <br>
@@ -83,3 +83,6 @@ take a look at this [KOSA_dk techin_MSA기반 Full-Stack 개발자 양성 과정
 💁🏻‍♀️ I love connecting with different people 
 so if you want to say hi,I’ll be happy to meet you more! :)
 ```
+
+
+
