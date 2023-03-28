@@ -17,7 +17,7 @@ I’ll show you my worth and potential through the progress I will make.
 <br>
 </p>
 
-<img src="https://static.vecteezy.com/system/resources/previews/000/227/853/large_2x/female-developer-vector.jpg" align = "right" />
+<img src="https://static.vecteezy.com/system/resources/previews/000/227/853/large_2x/female-developer-vector.jpg" width = "20%" align = "right" />
 
 
 ## 🌈 A little more about me…
