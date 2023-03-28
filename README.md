@@ -14,7 +14,7 @@ My name is Dain.
 I’ll show you my worth and potential through the progress I will make.
 
 
-<img src="https://static.vecteezy.com/system/resources/previews/000/227/853/large_2x/female-developer-vector.jpg" width = "30%" align = "left" />
+<img src="https://static.vecteezy.com/system/resources/previews/000/227/853/large_2x/female-developer-vector.jpg" width = "30%"/>
 
 
 <br>
