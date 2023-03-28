@@ -35,7 +35,7 @@ public class Dain{
             studying.put("language","java");
             studying.put("DBConnection","jdbc");
             studying.put("SQL","mysql");
-        }
+           }
 	}
 
     public <T> String wantToGo(T t){
