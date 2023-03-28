@@ -16,36 +16,39 @@ I’ll show you my worth and potential through the progress I will make.
 <br>
 <br>
 
-<p width="70%" align = "left" >
+
+
 
 ## 🌈 A little more about me…
 
-```java
+<p width="70%" align = "left" >
+    
+    ```java
 
-    public class Dain{
-        private String mbti = "ISFJ";
-        private String strength = "Communication";
-        private String dream = "Full-Stack developer";
+        public class Dain{
+            private String mbti = "ISFJ";
+            private String strength = "Communication";
+            private String dream = "Full-Stack developer";
 
-        public void education(){
-            Map<T t> studying = new Map<T t>();
-            studying.put("language","java");
-            studying.put("db","mysql");
-            studying.put("dbConnect","jdbc");
-        }
-
-        public <T> String wantToGo(T t){
-            for(;;){
-                ++growthPotential;
-                ++expert;
-                ++durability;
+            public void education(){
+                Map<T t> studying = new Map<T t>();
+                studying.put("language","java");
+                studying.put("db","mysql");
+                studying.put("dbConnect","jdbc");
             }
-            return "dk-techin";
-        }
-        
-    }
 
-```
+            public <T> String wantToGo(T t){
+                for(;;){
+                    ++growthPotential;
+                    ++expert;
+                    ++durability;
+                }
+                return "dk-techin";
+            }
+
+        }
+
+    ```
 </p>
 
 <img src="https://static.vecteezy.com/system/resources/previews/000/227/853/large_2x/female-developer-vector.jpg" width = "30%" align = "right" />
