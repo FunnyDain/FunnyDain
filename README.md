@@ -23,10 +23,9 @@ I’ll show you my worth and potential through the progress I will make.
 
 ## 🌈 A little more about me…
 
-<br>
-<br>
 
-```java
+```java   
+
 public class Dain{
     private String mbti = "ISFJ";
     private String strength = "Communication";
@@ -51,9 +50,6 @@ public class Dain{
     }
 	
 }
-
-<br>
-<br>
 
 ```
 <br>
